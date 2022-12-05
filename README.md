@@ -1,4 +1,4 @@
-# display-de-7-segmentos
+# Controlando um display de 7 segmentos via serial do arduino
 Código de funcionamento para dislplay de sete segmentos utilizando arduino e comunicação serial. 
 
 - Digitando "y" no terminal do monitor serial o arduíno escolherá um valor aleatório entre 0 e 6, 
